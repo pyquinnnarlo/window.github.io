@@ -33,7 +33,7 @@
     
 }
 .sct-bg{
-    background-image: url("/img/bg.jpg");
+    background-image: url("./img/bg.jpg");
     background-position: center;
     background-size: cover;
 }
