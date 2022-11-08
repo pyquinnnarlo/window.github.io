@@ -1,5 +1,5 @@
 .header-img{
-    background-image:url("/Windows/img/windows-6UBGkIbcfQI-unsplash.jpg");
+    background-image:url("img/windows-6UBGkIbcfQI-unsplash.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -33,7 +33,7 @@
     
 }
 .sct-bg{
-    background-image: url("/Windows/img/bg.jpg");
+    background-image: url("/img/bg.jpg");
     background-position: center;
     background-size: cover;
 }
