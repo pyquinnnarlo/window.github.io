@@ -1,6 +1,6 @@
 # window.github.io
 
-# Name: Quinn
+<h1> PyQuinn </h1>
 
 <h2> 🚀 &nbsp;My Programming Languages and Frameworks</h2>
 
