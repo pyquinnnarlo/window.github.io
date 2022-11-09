@@ -1,6 +1,5 @@
-# window.github.io
 
-<h1> PyQuinn </h1>
+<h1>Author: PyQuinn </h1>
 
 <h2> 🚀 &nbsp;My Programming Languages and Frameworks</h2>
 
